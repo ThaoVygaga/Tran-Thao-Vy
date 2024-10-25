@@ -9,11 +9,11 @@ namespace Tran_Thao_Vy
 {
     internal class Ex2
     {
-        private static void Main()
+        private static void Man()
         {
             //Question_01();
             //Question_02();
-            Question_03();
+            //Question_03();
         }
         public static void Question_01()
         {
@@ -22,7 +22,7 @@ namespace Tran_Thao_Vy
             int K = C + 273;
             int F = C * 18 / 10 + 32;
             Console.WriteLine($"convert to Kelvin: {K}");
-            Console.WriteLine($"convert to farenheit: {F}");
+            Console.WriteLine($"convert to fahrenheit: {F}");
         }
         public static void Question_02()
         {
